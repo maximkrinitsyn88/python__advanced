@@ -1,0 +1,10 @@
+total 52
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88   665 апр  2 16:32 hw_2_1_max_number.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88  1891 апр  2 17:10 hw_2_2_ps_aux_rss.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88   502 апр  2 16:32 hw_2_3_mean_size_ls.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88   682 апр  2 16:32 hw_2_4_hello_world_with_day.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88  1608 апр  2 16:32 hw_3_1.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88  1710 апр  2 16:32 hw_3_2.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88  1997 апр  2 16:32 hw_3_3.py
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88 21957 апр  2 16:42 output_file.txt
+-rw-rw-r-- 1 maximkrinitsyn88 maximkrinitsyn88     0 апр  2 17:24 out.txt
