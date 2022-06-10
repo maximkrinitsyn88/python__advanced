@@ -1,0 +1,2 @@
+to stdout
+Exception (<class 'TypeError'>, TypeError("unsupported operand type(s) for +: 'int' and 'str'"))
